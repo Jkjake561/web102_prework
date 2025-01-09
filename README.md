@@ -33,7 +33,7 @@ GIF created with LiceCap
 
 ## Notes
 
-getting use to c# and javascript
+getting re-aquinted with to c# and javascript
 
 ## License
 
